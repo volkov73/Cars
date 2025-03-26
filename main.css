@@ -224,3 +224,75 @@ table {
 	font-size: 28px;
 	opacity: 60%;
 }
+
+
+.bmw-special-edition {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.bmw-special img {
+	width: 100%;
+	margin-top: 42px;
+}
+
+.x300-edition {
+	margin-top: 42px;
+	line-height: 1.5;
+}
+
+.x300 {
+	font-family: "Lato";
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.x-edition {
+	font-family: "Lato";
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/*most-popular*/
+
+.most-popular {
+	display: flex;
+	justify-content: space-between;
+}
+
+.most-popular-title {
+	display: flex;
+	flex-direction: column;
+	line-height: 1.5;
+}
+
+.most-pop-title{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.most-pop-text {
+	font-family:  "Poppins";
+	font-size: 18px;
+	font-weight: normal;
+	opacity: 50%;
+}
+
+.see-more-buttom-two {
+	display: flex;
+	position: relative;
+	bottom: 0;
+    height: 100vh;
+	font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+	width: 119px;
+	height: 40px;
+	background-color: #000000;
+	color: #ffffff;
+	border-radius: 7px;
+}
+
